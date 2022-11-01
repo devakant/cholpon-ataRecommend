@@ -1,0 +1,63 @@
+body {
+    background-color: gray;
+}
+
+.title_button {
+    text-align: center;
+    font: 20px "Arial", sans-serif;
+}
+
+.block {
+    display: flex;
+    color: white;
+}
+
+.block_1 {
+    background: url("image/eda.jpg") no-repeat;
+    background-size: 150%;
+    width: 192px;
+    height: 192px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.block_2 {
+    background: url("image/sport.jpg") no-repeat;
+    background-size: 160%;
+    width: 192px;
+    height: 192px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.block_3 {
+    background: url("image/turizm.jpg") no-repeat;
+    background-size: 160%;
+    width: 192px;
+    height: 192px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.block_4 {
+    background: url("image/krasota.jpg") no-repeat;
+    background-size: 150%;
+    width: 192px;
+    height: 192px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
+
+.block_5 {
+    background: url("image/zdorovye.jpg") no-repeat;
+    background-size: 200%;
+    width: 192px;
+    height: 192px;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px #999999;
+}
